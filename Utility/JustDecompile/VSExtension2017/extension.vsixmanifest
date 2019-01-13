@@ -1,0 +1,20 @@
+<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011">
+  <Metadata>
+    <Identity Id="JustDecompileAddinForVS2017.Telerik.114fc0df-17bd-4e49-820e-fdfbdc9c3f39" Version="1.0" Language="en-US" Publisher="Telerik" />
+    <DisplayName>JustDecompileAddin</DisplayName>
+    <Description>Makes JustDecompile functionality available in Visual Studio. Requires JustDecompile installation.</Description>
+  </Metadata>
+  <Installation InstalledByMsi="true">
+    <InstallationTarget Id="Microsoft.VisualStudio.Pro" Version="[15.0]" />
+  </Installation>
+  <Dependencies>
+    <Dependency Id="Microsoft.Framework.NDP" DisplayName="Microsoft .NET Framework" Version="[4.5,)" />
+    <Dependency Id="Microsoft.VisualStudio.MPF.15.0" DisplayName="Visual Studio MPF 15.0" Version="[15.0]" />
+  </Dependencies>
+  <Prerequisites>
+    <Prerequisite Id="Microsoft.VisualStudio.Component.CoreEditor" Version="[15.0,16.0)" DisplayName="Visual Studio core editor" />
+  </Prerequisites>
+  <Assets>
+    <Asset Type="Microsoft.VisualStudio.VsPackage" Path="JustDecompileAddinForVS2017.pkgdef" />
+  </Assets>
+</PackageManifest>
