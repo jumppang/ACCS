@@ -1,0 +1,2 @@
+< 3.5 에서 TLS 1.2 사용>
+	- https://support.microsoft.com/en-us/help/3154518/support-for-tls-system-default-versions-included-in-the-net-framework
