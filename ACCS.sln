@@ -6,6 +6,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Document", "Document", "{0C
 		Document\Memo1.txt = Document\Memo1.txt
 	EndProjectSection
 EndProject
+<<<<<<< HEAD
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication1", "WindowsFormsApplication1\WindowsFormsApplication1.csproj", "{0E4EAE5A-43D0-44FF-8581-2B8741268E0A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Utility", "Utility", "{07550410-D206-4111-BDBD-4A050E128F4E}"
@@ -26,6 +27,9 @@ Global
 		{0E4EAE5A-43D0-44FF-8581-2B8741268E0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E4EAE5A-43D0-44FF-8581-2B8741268E0A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
+=======
+Global
+>>>>>>> 6c5676ea7fffcda9e49378793bf1f5194bf443d9
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
