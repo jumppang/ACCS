@@ -1,8 +1,1 @@
-<<<<<<< HEAD
-< 3.5 ¿¡¼­ TLS 1.2 »ç¿ë>
-	- https://support.microsoft.com/en-us/help/3154518/support-for-tls-system-default-versions-included-in-the-net-framework
-=======
-< 3.5 Â¿Â¡Â¼Â­ TLS 1.2 Â»Ã§Â¿Ã«>
-	- https://support.microsoft.com/en-us/help/3154518/support-for-tls-system-default-versions-included-in-the-net-framework
-aa
->>>>>>> 6c5676ea7fffcda9e49378793bf1f5194bf443d9
+dddd
